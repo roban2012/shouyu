@@ -40,10 +40,10 @@ Old:
 <a href= "pic07.html">摩尔斯密码（Morse code 1）</a><br><br>
 <a href= "pic08.html">摩尔斯密码（Morse code 2）</a><br><br>
 <a href= "pic09.html">摩尔斯密码（Morse code 3）</a><br><br>
+<a href= "pic10.html">交通警察手势信号图解</a><br><br>
+<a href= "pic11.html">中国手语词汇图示（1）</a><br><br>
+<a href= "pic12.html">中国手语词汇图示（2）</a><br><br>
 
-<a href= "pic02.html">应用程序制作模板</a><br><br>
-<a href= "pic02.html">应用程序制作模板</a><br><br>
-<a href= "pic02.html">应用程序制作模板</a><br><br>
 <a href= "pic02.html">应用程序制作模板</a><br><br>
 <a href= "pic02.html">应用程序制作模板</a><br><br>
 <a href= "pic02.html">应用程序制作模板</a><br><br>
