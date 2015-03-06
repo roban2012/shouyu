@@ -28,8 +28,9 @@ Old:
 <a href= "link05.html">手语翻译的意义与类型</a><br><br>
 <a href= "link06.html">摩尔斯密码（Morse code）</a><br><br>
 
-<a href= "link02.html">开发制作周期</a><br><br>
- 
+<a href= "link07.html">SigAm双语聋教育项目</a><br><br>
+<a href= "link08.html">龚群虎论双语和手语</a><br><br>
+
 
 <a href= "pic01.html">手指数字图 </a><br><br>
 <a href= "pic02.html">汉语手指字母图（1）</a><br><br>
@@ -44,7 +45,7 @@ Old:
 <a href= "pic11.html">中国手语词汇图示（1）</a><br><br>
 <a href= "pic12.html">中国手语词汇图示（2）</a><br><br>
 
-<a href= "pic02.html">应用程序制作模板</a><br><br>
+
 <a href= "pic02.html">应用程序制作模板</a><br><br>
 <a href= "pic02.html">应用程序制作模板</a><br><br>
  
